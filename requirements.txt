@@ -1,0 +1,7 @@
+chex==0.1.6
+dm-haiku==0.0.9
+importlib_metadata==6.0.0
+jax==0.4.4
+optax==0.1.4
+TinyShakespeareLoader==1.0.5
+torch==1.13.1
